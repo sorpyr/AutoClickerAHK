@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/logo.png" alt="AutoClicker Logo" width="120" />
+  <img src="autoclicker.png" alt="AutoClicker Logo" width="120" />
 </p>
 
 <h1 align="center">AutoClickerAHK</h1>
