@@ -5,7 +5,7 @@
 <h1 align="center">AutoClickerAHK</h1>
 
 # AutoClickerAHK
-A simple, portable auto-clicker made with AutoHotkey and compiled into a standalone executable.
+A simple, portable auto-clicker made with AutoHotkey and compiled into a standalone executable. Guaranteed 20+ CPS
 
 # How it works
 Run the executable, then hold down the 4th mouse button (the back button) to start auto-clicking. Release the button to stop.
