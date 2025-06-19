@@ -32,3 +32,17 @@ If the executable doesn’t work on your system, try:
 * Installing AutoHotkey from https://www.autohotkey.com/
 
 * Running or compiling the script yourself from the source *.ahk* file
+
+# Safety
+
+While testing, Windows Defender and Microsoft Edge flagged the executable as suspicious. This is a common behavior for new, unsigned apps and does not mean the file is unsafe.
+
+I guarantee it’s clean and safe to run.
+
+*How to bypass these warnings*:
+
+Windows SmartScreen:
+* When the warning appears, click More info → Run anyway.
+
+Microsoft Edge:
+* After download, go to Downloads, hover over the .exe file, click the three dots, select Keep → Show more → Keep anyway.
